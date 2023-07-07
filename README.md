@@ -1,6 +1,6 @@
 
-## flight-api
-flight-api is an API based on a problem set created by CSIT [found here](https://se-mini-challenge.csit-events.sg/).
+## flight_api
+flight_api is an API based on a problem set created by CSIT [found here](https://se-mini-challenge.csit-events.sg/).
 
 This API was my first dive into Rust, taking about 6 hours in total to complete. Overall, I found documentation for implementing standard endpoints with the MongoDB driver to be lacking. Most of the documentation online seemed to focus on using `find_one()`, ignoring the best way to use the `Cursor` as a result of `find()` or `aggregate()`. 
 
